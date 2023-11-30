@@ -1,1 +1,1 @@
-# astraldev-examples
+# Example code
