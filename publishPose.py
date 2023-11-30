@@ -7,6 +7,7 @@ from mavros_msgs.srv import CommandBool, CommandBoolRequest, SetMode, SetModeReq
 
 current_state = State()
 
+
 def state_cb(msg):
     global current_state
     current_state = msg
